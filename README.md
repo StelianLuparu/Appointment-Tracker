@@ -1,13 +1,13 @@
 # Title
 Appointment-Tracker
 
-##Description:
+## Description:
 This site will allow people to create an appointment for different branches within
 
 
 
 
-##App components
+## App components
 * login
 * user profile(phone number,email address,etc)
 * home page(see your status)
